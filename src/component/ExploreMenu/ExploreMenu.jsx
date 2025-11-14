@@ -7,7 +7,7 @@ const ExploreMenu = () => {
   return (
     <div className='explore-menu' id='explore-menu'>
         <h1>Our menu's</h1>
-        <p className='explore-menu-test '>Our mission is to statisfy your cravings and elevate your dining experience, one delicious meal at a time.</p>
+        <p className='explore-menu-test '>Explore a menu featuring a delectable dishes crafted with the finest ingredients and culinary expertise . Our mission is to satisfy your cravings and elevate your dining</p>
         
         <div className="explore-menu-list">
             {menu_list.map((item)=>{
