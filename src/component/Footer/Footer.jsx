@@ -23,7 +23,7 @@ const Footer = () => {
                     <li>Refer & Earn</li>
                   
                 </ul>
-                </div>
+            </div>
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
