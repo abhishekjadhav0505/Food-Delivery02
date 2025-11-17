@@ -55,11 +55,15 @@ button a{
     .header-contents{
         max-width: 65%;
     }
+    .header-contents h2{
+        font-size: 60px;
+
+    }
     .header-contents p{
         display: none;
 
     }
     .header-contents button{
-        padding: 38px 76px;
+        padding: 17px 35px;
     }
 }

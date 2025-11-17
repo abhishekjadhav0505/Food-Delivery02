@@ -60,4 +60,10 @@
         font-size: 14px;
     }
 }
+
+@media (max-width:750px){
+    .explore-menu-test{
+        max-width:90% ;
+    }
+}
     
